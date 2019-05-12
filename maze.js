@@ -47,11 +47,10 @@ setInterval(()=>{
     // obj.style.background = 'white';
     path.pop();
     } else {
-        alert('done! :)');
         return;
     }
 },500);
-
+alert('done! :)');
 }
 
 class Maze{
